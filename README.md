@@ -3,11 +3,11 @@
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  :
+### Section			   	      : 9-Beryllium
+### Group Members			    : CAISIP, CASCO, RAGAZA
+### Date (Proposal Date)  : 
 
-### Project Description:
+### Project Description: 
 
 - A brief summary of the project description and the need for it.
 
